@@ -1,4 +1,4 @@
-# An Implemention of Variational Mapper on SDS based on ThreeStudio
+# An Implementation of Variational Mapper on SDS based on ThreeStudio
 
 ## Implemented based on `LODS` and `ThreeStudio` 
 ### [LODS](https://yangxiaofeng.github.io/demo_diffusion_prior/)
