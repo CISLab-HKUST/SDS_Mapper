@@ -17,7 +17,7 @@
 
 - [ ] Apply improved SDS Loss on 3D Avatar Generation
 
-- [ ] 
+- [ ] ID Driven 3D Avatar Generation
 
 ## Installation
 
