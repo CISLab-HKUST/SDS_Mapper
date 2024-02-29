@@ -13,11 +13,11 @@
 
 ## TODO List
 
-[x] Implement improved SDS Loss (Variational Mapper)
+- [x] Implement improved SDS Loss (Variational Mapper)
 
-[] Apply improved SDS Loss on 3D Avatar Generation
+- [] Apply improved SDS Loss on 3D Avatar Generation
 
-[] 
+- [] 
 
 ## Installation
 
