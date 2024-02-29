@@ -46,8 +46,7 @@ cd shap-e
 pip install -e .
 ```
 
-If you have any problem with the installation, you may search the issues in these two repos first.
-Also feel free to open a new issue here.
+If you have any problem with the installation, feel free to open a new issue here.
 
 ## Quickstart
 
