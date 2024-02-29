@@ -15,13 +15,13 @@
 
 - [x] Implement improved SDS Loss (Variational Mapper)
 
-- [] Apply improved SDS Loss on 3D Avatar Generation
+- [ ] Apply improved SDS Loss on 3D Avatar Generation
 
-- [] 
+- [ ] 
 
 ## Installation
 
-- Install pytorch and torch vision
+- Install PyTorch and torch vision
 ```sh
 # torch1.12.1+cu113
 pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 --extra-index-url https://download.pytorch.org/whl/cu113
