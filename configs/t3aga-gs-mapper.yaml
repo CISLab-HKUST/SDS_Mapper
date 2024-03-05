@@ -20,13 +20,13 @@ system:
   radius: ${data.eval_camera_distance}
   prompt_processor_type: "stable-diffusion-prompt-processor"
   prompt_processor:
-    pretrained_model_name_or_path: "/home/yhe/projects/zeyu/weights/huggingface/base_model/stable-diffusion-2-1-base"
+    pretrained_model_name_or_path: "stabilityai/stable-diffusion-2-1-base"
     prompt: ???
     negative_prompt: "a point cloud image"
 
   guidance_type: "t3aga-mapper-guidance"
   guidance:
-    pretrained_model_name_or_path: "/home/yhe/projects/zeyu/weights/huggingface/base_model/stable-diffusion-2-1-base"
+    pretrained_model_name_or_path: "stabilityai/stable-diffusion-2-1-base"
     guidance_scale: 7.5
     min_step_percent: 0.02
     max_step_percent: [1000, 0.98, 0.5, 1001]
